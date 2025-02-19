@@ -3,7 +3,7 @@ import fitur
 def menu():
     while True:
         print("===== PROJEK PERPUSTAKAAN FCTECH =====")
-        print("1. Tambah aja Buku")
+        print("1. Tambah Buku")
         print("2. Lihat Buku")
         print("3. Perbaharui Status Buku")
         print("4. Hapus Buku")
